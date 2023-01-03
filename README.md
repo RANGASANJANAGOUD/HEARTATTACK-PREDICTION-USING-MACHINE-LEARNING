@@ -13,4 +13,4 @@ Compared the results to recommend the best Machine Learning  model.
 
 COLAB NOTEBOOK LINK: https://github.com/RANGASANJANAGOUD/HEARTATTACK-PREDICTION-USING-MACHINE-LEARNING/blob/main/HEART_ATTACK_PREDICTION.ipynb
 
-PROJECT PRESENTATION LINK: https://drive.google.com/drive/my-drive
+PROJECT PRESENTATION LINK: https://drive.google.com/file/d/1SaKnmosdkBlX4ykDRDhPmUagnYrZ7lTl/view?usp=sharing
